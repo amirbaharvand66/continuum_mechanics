@@ -1,5 +1,5 @@
 # Introduction to Continuum Mechanics
-## The course content?
+## The course content
 - Preliminary math on Tensor Analysis
 - Kinematics of a continuum  (strain)
 - Stress
